@@ -76,6 +76,3 @@ RegisterNumber:25006451
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
